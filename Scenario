@@ -872,3 +872,124 @@ Lieu : ruines industrielles, ambiance nocturne, lumière rouge, musique tendue.
 Delta et Riven infiltrent une station de transfert désaffectée.
 Mais un déclencheur silencieux alerte Ash.
 🎮 Mini-jeu : désactiver des bornes dans un ordre précis (QTE).
+🎥 13.3 — L'EMBUSCADE
+Ash attend dans une passerelle en hauteur.
+Tension dans les dialogues, son regard est vide, froid.
+“Tu crois que tu veux changer le monde. En réalité, t’as juste peur de disparaître.”
+Il active un système automatique de défense : tourelles, drones, feu croisé.
+Riven couvre Delta. Il y a une issue… mais il faut courir.
+🎮 Choix :
+• [Rester et riposter avec elle]
+• [Lui dire de courir]
+• [Tenter de désactiver le système]
+🩸 13.4 — LE SACRIFICE
+Quelle que soit l’option choisie, une cinématique s’enclenche :
+Ash tente un tir final sur Delta.
+Riven s’interpose, prend la balle / lame / tir énergétique.
+Elle tombe dans les bras de Delta.
+Exit music - radiohead 
+Silencieuse, souriante.
+🎮 Dialogue final (choix) :
+• [Pourquoi t’as fait ça… ?]
+• [Je te l’avais dit, Riven… pas toi.]
+• [Ne ferme pas les yeux, reste avec moi.]
+Elle répond, haletante :
+“J’ai vu ce que t’étais devenu… t’étais beau, Delta. Et j’voulais… j’voulais que tu survives à ça. Cette fois je pars pour de bon, on se reverra..." (si echo31 riven decouvert: "prend ca.. *donne le masque*.. à plus.. Delta.")
+ 
+Puis elle meurt. (option a debloquer si echo31 Riven découvert avec barre de rage debloquée envers ash - denial ptatsinski)
+🕳️ 13.5 — POST-MORTEM
+Grey arrive trop tard.
+Il regarde le corps. Fume. Tente de ne rien dire.
+“On continue… ou on se venge ?”
+🎮 Choix muet. Delta ne répond pas.
+Fin du chapitre sur écran noir.
+Ash est toujours en fuite.
+La rage monte.
+
+⚖️ CHAPITRE 14 — “DERNIÈRE LIGNE”
+“Tu peux le tuer. Tu peux tout révéler. Mais pas les deux.”
+📍 14.1 — UNE CHAMBRE VIDE
+Lieu : vieille chambre d’hôtel à moitié brûlée.
+Delta est seul. Riven est morte. Grey a disparu depuis deux jours.
+🎮 Interaction libre dans la pièce :
+• Radio jouant une fréquence brouillée
+• Miroir fissuré
+• Vieille photo de l’équipe : Delta, Ash, Riven
+• Une arme sur la table
+• Un fichier ouvert sur l’ordi, contenant les données volées d’Ash
+🗺️ 14.2 — LE PLAN DE GREY
+Un message automatique de Grey arrive.
+“Si tu lis ça, c’est que j’ai trouvé sa trace. Il sera au niveau C-47, silo reconverti. Je te laisse le choix.”
+Option de lancer la mission ou d’écouter encore des enregistrements laissés par Riven sur une clé USB.
+🎮 Dialogue audio optionnel (enregistrement de Riven) :
+“Tu comprendras peut-être un jour que j’étais pas là par devoir. J’étais là pour toi. Et j’espère que t’auras la force de survivre à ce monde même s’il t’a tout volé.”
+🔥 14.3 — DERNIÈRE POURSUITE
+Lieu : silo de transfert d’archives classées.
+Ash est sur place, seul. Il te repère à peine.
+Il te dit simplement :
+“Tu t’attendais à quoi ? À une dernière joute ? Non. Pas moi.”
+🎮 Pas de combat. Une discussion. Les deux sont épuisés.
+⚖️ 14.4 — LE CHOIX FINAL
+Ash est à portée.
+Sur ton interface :
+[ Tuer Ash ] [ Laisser partir et révéler les données ] 
+• Si tu choisis de le tuer (seulement si la barre de rage envers lui est débloquée)→
+Cinématique : Delta tire. Les fichiers sont perdus.
+Le monde ne saura rien. Ash meurt sans dire un mot.
+Fin "Psi". (Ψ "psi" en grecque representant le choc mental, l'implosion de l'âmendonc vengeance a cause de ash ce gros fdp)
+• Si tu choisis de le laisser vivre →
+Delta baisse l’arme.
+Ash te regarde, surpris, puis tourne le dos.
+Cinématique : au moment où tu te retournes pour partir,
+Ash te tire une balle dans le dos.
+Tu tombes lentement.
+Il s’éloigne dans l’ombre.
+Fin “Delta”. (la seule “bonne”, mais tragique)
+🧠 FIN DELTA
+Écran noir.
+Voix off de Grey :
+“Il a voulu changer le monde…
+Et il l’a fait. Pas pour lui. Mais pour ceux qui viendraient après.”
+🎥 Montage final :
+• Riven souriante, souvenir
+• Ash dans une ruelle, traqué
+• Grey allumant une dernière cigarette
+Titre du jeu apparaît.
+
+
+🪶 ÉPILOGUE — “CONSÉQUENCES”
+"Il n’a pas survécu. Mais son nom… n’est plus un murmure dans l’ombre."
+📺 1. LE MONDE EN FLAMMES
+🎥 Cinématique type montage TV —
+Voix off de différents journalistes :
+"Les fichiers diffusés anonymement révèlent une structure de surveillance d’État plus étendue que prévu…"
+"Des figures politiques majeures ont été arrêtées ce matin…"
+"Une révolution numérique portée par un nom que personne ne connaissait il y a encore quelques semaines : Delta."
+On voit des manifestations, des visages masqués tenant des pancartes, des serveurs gouvernementaux détruits.
+🛥️ 2. ASH, LE FANTÔME RICHE
+🎥 Cinématique silencieuse.
+Ash, sur un yacht, verre à la main, entouré de luxe.
+Il regarde un écran holographique.
+Sur celui-ci : “Anonymous tip — Last known ID confirmed: A. Mercer (Echo)”
+Il éteint l’écran, fixe l’horizon.
+Derrière lui, un drone tueur non identifié le suit à distance.
+🥃 3. GREY, LE DERNIER LIEN
+Lieu : un bar désert.
+Grey boit lentement, clope au bec, silencieux.
+Le serveur lui demande :
+“Toujours pas de nouvelles du gamin ?”
+Grey ne répond pas. Il regarde la télé au-dessus du comptoir :
+“...et grâce à ce qu’il a fait, tout un système s’est effondré.”
+Il sourit légèrement, dit juste :
+“Ouais. Il a eu ce qu’il voulait. Même si ça lui a coûté plus que prévu.”
+Il sort une carte à jouer, posée sur le comptoir.
+Un "Δ" gravé dessus.
+🕯️ 4. TOMBE INCONNUE
+Un dernier plan fixe :
+Un carré de béton, sans nom.
+Une rose posée sur le sol.
+Un gamin passe devant, lit un graffiti sur le mur :
+'Here rests "Riven"'
+Avec une citation:
+"Delta wasn’t real. He was all of us."
+Musique finale : everything in it's right place - radiohead
