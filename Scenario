@@ -1,0 +1,874 @@
+🧠 CHAPITRE 0 — “DÉMASQUÉ”
+🎬 CINÉMATIQUE D’OUVERTURE
+• Voix en boucle : "Delta... Delta has struck again..."
+• Fondu sur écran noir →
+• Montage de journaux, télévisions, réseaux sociaux → visage et nom du joueur exposés (nom visible mais jamais prononcé à l’oral).
+🎮 CINÉMATIQUE JOUABLE — Chambre
+• Le joueur (Delta) est assis devant son ordi.
+• Il lit les messages : « Face revealed », « Who is Delta », « They found him. »
+• Sirènes au loin. Bruit d’hélico.
+• Le joueur a 20 secondes pour agir.
+⚙️ CHOIX #1 – RÉACTION FACE À L’ALERTE
+Option
+Conséquence immédiate Répercussions
+[Eteindre l'ordi]L’écran s’éteint, Delta efface ses tracesGrey plus tard dira « t’avais au moins ça dans le crâne »
+[Prendre une clé USB]
+Delta la glisse dans sa poche
+Plus tard, Grey peut l’utiliser pour t’aider
+[Rien faire]Delta panique, ne fait rienPlus tard, Grey t’appellera “naïf” ou “gamin inconscient” 
+⚠ Rester trop longtemps sans agir → Arrestation immédiate (Fin α)
+🏃 SEQUENCE DE FUITE
+• Delta sort de son immeuble (QTE : [Q] pour esquiver un drone de surveillance)
+• Plusieurs routes possibles : 
+• Ruelle gauche : Delta trouve un vieux plan de métro désaffecté (route vers Grey)
+• Marcher dans la rue : Il se fait repérer → poursuite
+• Grimper sur le toit : Risqué mais efficace si QTE réussi
+⚙️ CHOIX #2 – TRAJET D’ÉVASION
+Option Résultat Répercussion
+[Ruelle]Fuite discrète → il tombe sur un graffiti “31 = silence”Te met sur la route de Grey,
+
+[Rue principale]Course-poursuite QTE → risque d’échec si tu rates 2 inputs
+Blessure potentielle (affecte chapitre 1)
+
+[Toit]Vue sur la ville, cinématique stylée, +1 karmaSi tu tombes, blessure au bras gauche 
+🔚 FIN DU CHAPITRE
+• Tous les chemins mènent vers une station abandonnée où Delta se cache dans un local d’entretien.
+• Il ouvre un vieux téléphone → numéro inconnu : “Tu veux des réponses ? Cherche Grey.”
+
+🧩 CHAPITRE 1 — “LE VIEUX” 
+🎬 1.1 — Rencontre dans le métro
+• Delta tombe sur Grey dans le hangar de métro.
+• Dialogue initial (mêmes choix qu’avant).
+• Grey teste Delta avec des insultes et une attitude hostile.
+• QTE d’entraînement, comme avant.
+🟢 Si réussite :
+Grey lève un sourcil, crache sa clope. “T’as peut-être pas les muscles, mais t’as la rage. Rejoins-moi ce soir, 22h, au bar du virage. Je t’expliquerai tout.”
+🚶‍♂️ 1.2 — Errance urbaine
+• Delta sort du métro.
+• Petit moment de jeu libre : 
+• Se balader dans une ruelle
+• Voir des pubs “Delta wanted”
+• Peut entrer dans une supérette pour se prendre une boisson
+• Peut croiser un sans-abri qui lui parle (dialogue bonus)
+But : faire sentir que Delta est seul, mais qu’un choix s’offre enfin à lui.
+Ambiance froide, pas de musique.
+🍸 1.3 — CINÉMATIQUE BAR : “LE VERRE DE LIAISON”
+• Le joueur entre dans le bar.
+• Musique : Dolce – Cushy
+➤ Barman fait valdinguer le shaker en cinématique stylisée.
+• Grey est assis au fond, clope au bec, verre vide.
+Il ne regarde même pas Delta.
+🧓 Grey :
+“Tu veux changer les règles ? Ou tu veux juste pas crever seul ?”
+🧓 Grey :
+“L’Echo, c’est pas des soldats. C’est pas des héros non plus.
+C’est des ombres. Des ratés. Des tordus.
+Tous ceux qu’le système a voulu rayer. Et tu sais quoi ? On revient pour l’effacer à notre tour.”
+🎮 Choix du joueur :
+• [Accepter sans poser de questions]
+• [Demander ce qu’il attend de toi]
+• [Refuser] → Grey te laisse partir. Si tu restes dehors → Fin γ (tu te fais attraper)
+🚪 1.4 — Sortie du bar
+• Quoi qu’il arrive, s’il accepte : 
+• Grey te donne une adresse : “Canal 31, sous le pont radioactif.”
+• Tu sors dans la nuit. Voix off :
+“Je savais pas ce que j’foutais. Mais j’voulais plus courir. Je voulais comprendre.”
+
+🧩 CHAPITRE 2 — “L’ÉCHO”
+
+
+
+🛤️ 2.1 — ARRIVÉE À CANAL 31
+• Delta marche dans une galerie souterraine.
+• Cinématique : couloir tagué, bruit de machines, ambiance post-indus.
+Une porte blindée s’ouvre automatiquement.
+Il entre dans une planque high-tech bricolée : ordinateurs, câbles, sacs d’armes, et au fond… deux silhouettes.
+🤝 2.2 — RENCONTRE AVEC ASH & RIVEN
+Ash : énergique, charmeur, toujours un truc à dire.
+Riven : calme, regard tranchant, observe sans un mot.
+🧠 Dialogue semi-jouable avec choix :
+Ash :
+“T’es le fameux hacker-fantôme ? Pas l’air d’un tueur…”
+🎮 Choix :
+• [Ignorer]
+• [Répliquer avec sarcasme]
+• [Avouer ton stress]
+Réponse Conséquence:
+Ignorer:
+Riven commence à te respecter
+Sarcasme:
+Ash t’apprécie davantage
+Stress:
+Les deux te considèrent comme "humain" 
+Riven :
+“Grey t’a envoyé, alors t’as une raison d’être là. Mais t’as encore rien prouvé.”
+
+🔐 2.3 — PREMIER TEST DE CONFIANCE
+Ash t’apporte un vieux laptop vérolé.
+“Déverrouille-le sans déclencher les pièges. Si tu fais péter l’alim, on explose avec.”
+🎮 Mini-jeu ou QTE de hack (style : [F] pour désactiver, [Q] pour sauter un nœud)
+• En cas d’échec : 
+• L’alarme sonne
+• Riven sort une arme mais Grey appelle à temps pour la calmer
+→ Dialogue de tension :
+“Une erreur comme ça en mission, t’es mort. Tu piges ?”
+• En cas de réussite : 
+• Ils valident ton intégration
+• Riven t’offre une “vraie” arme
+🧾 2.4 — PREMIÈRE MISSION
+Grey t’appelle sur le com :
+“Une planque de la milice a été repérée. Vous partez ce soir.”
+🎮 Préparation libre :
+• Parler à Ash (il te file une astuce de plan A)
+• Parler à Riven (elle te teste avec une question personnelle)
+🎮 Choix dialogue Riven :
+“Pourquoi tu veux changer le monde ?”
+Réponses :
+• [Parce que j’ai rien d’autre.]
+• [Parce que je peux.]
+• [Parce que c’est ce qu’il faut faire.]
+→ Cette réponse influencera la fin que tu pourras débloquer.
+📦 2.5 — CINÉMATIQUE DE DÉPART
+Ash ajuste ses lunettes.
+Riven vérifie son chargeur.
+🧠 Voix off Delta :
+“Je savais pas si je pouvais leur faire confiance.
+Mais j’avais plus peur de rester seul que de mourir.”
+Musique de fond : instrumentale tendue (à définir)
+
+
+🧩 CHAPITRE 3 — “PREMIER COUP”
+Objectif : construire une camaraderie solide avec Ash et Riven à travers une mission intense, bien rythmée, sans aucune suspicion.
+Musique proposée pendant l’infiltration : style Watch Dogs / Aesthetic noir électronique, à définir.
+🏭 3.1 — MISSION : RAID SUR UN SERVEUR DE LA MILICE
+Contexte : un ancien data-center de la milice contient les plans d’un système de surveillance urbain (BlackLine).
+L’Écho veut les voler pour les saboter.
+👥 3.2 — BRIEFING (cinématique)
+Ash te file une oreillette.
+“Toi t’es nos yeux. Riven les dents. Moi le sourire.”
+Riven :
+“On entre, on prend le disque dur, on ressort. Pas de bruit. Pas de gloire.”
+🎮 3.3 — INFILTRATION
+Gameplay partagé :
+• Ash désactive les caméras
+• Riven neutralise deux gardes
+• Delta (joueur) suit derrière en piratant les portes ou envoyant un drone
+🧠 Interactions :
+• Ash te fait une blague dans l’ascenseur :
+“On survivra, mais si tu lâches un pet, j’te bute.”
+• Riven t’apprend comment marcher sans bruit, t’attrape par le col quand t’as failli te faire repérer.
+➡️ Si tu te rates, ils couvrent tes erreurs sans t'engueuler.
+🗃️ 3.4 — LA SALLE DES DONNÉES
+Cinématique :
+• Riven garde la porte
+• Ash insère un disque dans la machine
+🎮 QTE pour stabiliser le téléchargement (genre [Q][E][Q][E] rapide pour éviter surcharge)
+Une alarme retentit à la toute fin malgré tout.
+🔫 3.5 — FUITE & COUVERTURE
+Ash se fait tirer dessus (épaule touchée).
+Riven : “Il est touché ! Delta, prends-le !”
+🎮 QTE : porter Ash en sécurité + esquiver tirs [Z], [Q], [S], [D] dans le bon timing
+Riven couvre en tirant. Elle crie :
+“On se replie vers la ligne B ! Je tiens encore 10 secondes !”
+Tu poses Ash derrière un distributeur, tu reviens vers Riven qui recharge en hurlant :
+“Trois secondes ! Bouge, Delta !”
+🏃‍♂️ 3.6 — SORTIE & EXTRACTION
+Ash, malgré sa blessure, sort une grenade flash :
+“Pour la route !”
+Il la jette, tout le monde s’échappe.
+CINÉMATIQUE DE FUITE DANS LES TUNNELS – respiration haletante – musique intense – couloirs tagués – sirènes en fond
+🫂 3.7 — PLANQUE – SCÈNE DE DÉTENTE
+Ash blessé, allongé. Riven nettoie la plaie.
+Delta lui file une canette d’eau ou d’alcool selon choix.
+🎮 Dialogue optionnel autour d’un feu ou sur le toit :
+• Ash raconte un souvenir.
+• Riven avoue qu’elle pensait pas t’apprécier.
+Voix off Delta :
+“Ils auraient pu me laisser crever là-bas.
+Mais ils m’ont couvert. C’est là que j’ai compris : j’étais plus seul.”
+
+🧩 CHAPITRE 4 — “RESPIRER”
+Objectif : approfondir les liens avec Ash & Riven, renforcer l’immersion dans la planque de l’Écho, et commencer à donner au joueur du pouvoir d’interaction sociale et technique.
+Style : narration plus posée, mais riche, comme un refuge temporaire avant le chaos.
+🧱 4.1 — LA PLANQUE (Gameplay semi-libre)
+Delta se réveille dans une chambre improvisée.
+La planque est vivante :
+• Écrans lumineux, tags muraux, drones volants, armes sur table, ambiance feutrée mais tendue.
+🎮 Le joueur peut :
+• Parler à Ash, Riven, Grey
+• Accéder à des ordis (mini-jeux)
+• Modifier l’apparence de son personnage ou l’équipement (facultatif)
+• Lire des journaux / messages pour lore
+🗣️ 4.2 — INTERACTIONS PROFONDES
+🧍 Ash (détendu, curieux)
+“Si tout ça foire… t’as un endroit où t’irais ?”
+🎮 Choix de réponse :
+• [J’ai nulle part.]
+• [Chez quelqu’un, peut-être.]
+• [J’irai n’importe où… tant que je suis libre.]
+💬 Réponse d’Ash :
+“Tu commences à parler comme moi. C’est flippant.”
+👤 Riven (coupée du monde, méfiante)
+“T’as tué quelqu’un ? Pour de vrai ?”
+🎮 Choix :
+• [Oui, et j’y pense encore.]
+• [Non. Mais j’étais prêt.]
+• [Pourquoi tu veux savoir ?]
+💬 Si empathie :
+“Tu vaux mieux que nous. Garde ça.”
+💬 Si agressif :
+“On verra comment tu réagis quand ça sera ta vie ou la leur.”
+🛠️ 4.3 — ZONE TECH
+Le joueur accède à :
+• Des serveurs (pour lire des mails volés)
+• Des données “corrompues” à décrypter (mini-jeu optionnel)
+• Une IA vocale cachée que seul Delta peut activer (bonus futur ?)
+🧪 4.4 — possible secret
+Grey donne une consigne :
+“Fouille les logs. Et ramène les infos sur la mission d'hier.”
+🎮 Tu analyses des données. Tu peux trouver si tu ferme les logs et ouvre les dossiers sécurisé en tapant leur mot de passe : echo31 les chefs d'accusation des membre dont ash. Tu vois qu'il a braqué une banque, puis menti à ses coéquipiers pour n'avoir que quelques années de prison, puis qu'il a rebraque une banque et qu'il est actuellement en cavale
+On voit aussi celui de Riven, avec le fait que son petit frere est mort dans une explosion de sa maison d'enfance (ouverture dans la suite)
+🎮 Choix :
+• [Tout rapporter à Grey]
+• [Garder le doute pour toi]
+• [Confronter Ash]
+➡️ Rien ne se déclenche tout de suite. Mais ce choix sera mémorisé.
+🍻 4.5 — MOMENT DE COHÉSION
+CINÉMATIQUE : Soirée improvisée.
+• Ash allume de la musique.
+• Riven te file un verre.
+• Les trois parlent de ce qu’ils feraient avec une “nouvelle vie”.
+🧠 Voix off Delta :
+“C’était peut-être artificiel. Ou peut-être que c’était vrai.
+Mais ce soir-là, je me suis senti vivant.”
+Musique suggérée : instrumentale douce, piano en fond, lumière tamisée.
+
+🧩 CHAPITRE 5 — “FRACTURE”
+Objectif : glisser subtilement vers les prémices de la trahison. Aucun acte clair, mais des tensions, des désaccords, et des réactions variables selon les choix du joueur dans le chapitre précédent.
+Ce chapitre est charnière : le moment où les joueurs commencent à sentir que quelque chose cloche, sans pouvoir le prouver.
+📡 5.1 — NOUVEL OBJECTIF : ESPIONNER LE DISPOSITIF “VORTEX”
+Grey envoie Ash, Riven et Delta pour intercepter une cargaison du gouvernement contenant un nouveau dispositif de surveillance biométrique.
+“On la vole pas. On l’étudie. Compris ?”
+Ash hoche la tête. Riven te jette un regard. Elle est tendue.
+🚙 5.2 — TRAJET / CINÉMATIQUE DIALOGUE
+Dans un van blindé bricolé, en route vers l’opé.
+Ash, en conduisant :
+“Grey devient mou. Ce matos, on pourrait le revendre.”
+🎮 Dialogue Delta (choix) :
+• [Il veut juste pas de bruit.]
+• [T’as peut-être raison.]
+• [T’as pas confiance en Grey ?]
+→ Selon la réponse, Ash réagit plus ou moins froidement. Riven, silencieuse, observe.
+🏢 5.3 — MISSION INFILTRÉE : CENTRE LOGISTIQUE
+Gameplay :
+• Le trio entre en coordination.
+• Ash commence à prendre des décisions sans concertation, comme forcer une porte à l’explosif alors que vous deviez attendre.
+🎮 Choix rapide : [Suivre Ash] ou [Rattraper Riven]
+• Suivre Ash : infiltration plus directe, plus violente.
+• Suivre Riven : méthode furtive, qui prend plus de temps mais évite une alarme.
+→ Selon la route, la confiance dans Ash ou Riven se développe.
+📦 5.4 — CINÉMATIQUE : LE DISPOSITIF “VORTEX”
+Le groupe atteint une chambre forte.
+Ash regarde le dispositif, silencieux.
+Riven :
+“On prend les données. Pas plus.”
+Ash regarde Delta :
+“Tu ferais quoi, toi ? On a l’accès total.”
+🎮 Choix :
+• [Télécharger seulement les plans]
+• [Copier aussi les données utilisateurs]
+• [Demander ce que pense Grey]
+→ Si tu copies les données utilisateurs, Ash t’approuve.
+→ Si tu refuses, il bougonne.
+→ Si tu mentionnes Grey, Riven acquiesce.
+🧨 5.5 — FUITE SOUS PRESSION
+Une équipe ennemie débarque (possible QTE).
+Ash neutralise deux ennemis sans sommation.
+Riven réagit mal.
+“On devait rester discrets !”
+Ash :
+“Ils allaient nous crever. J’ai pas le temps de jouer au gentil.”
+→ Tension palpable entre les deux.
+🧾 5.6 — DEBRIEFING / PLANQUE
+De retour à la base.
+Riven claque la porte du dortoir.
+Ash se sert un verre, te tend la bouteille.
+🎮 Dialogue :
+“Elle comprend pas que ce monde-là, il te laisse pas le choix.”
+🎮 Choix :
+• [Elle veut juste survivre proprement.]
+• [Tu crois que t’as toujours raison ?]
+• [Tu fais ce que t’as à faire, j’te juge pas.]
+Selon le choix :
+• Ash peut t’apprécier, ou commencer à se méfier.
+• Riven t’ouvrira plus ou moins dans les prochains chapitres.
+🧠 5.7 — SI TU AS DÉCOUVERT LE DOSSIER (ECHO31)
+— Optionnel —
+→ Un dialogue s’ouvre :
+• Si tu vas voir Grey :
+Il te dit qu’il a toujours gardé un œil sur Ash. “Certains fauves sont utiles… jusqu’à ce qu’ils mordent la gorge.”
+• Si tu vas voir Ash :
+Il te regarde droit dans les yeux. “T’as fouillé mes affaires ? C’est ça ta loyauté ?”
+Tu peux :
+• [T’excuser] → Il fait semblant de passer à autre chose.
+• [L’affronter] → Il devient plus froid avec toi.
+• [Mentir] → Il fait genre il te croit.
+• Si tu gardes pour toi, rien ne se passe.
+Mais Ash change d’attitude subtilement si tu as découvert son passé.
+
+Parfait. On va créer un Chapitre secondaire de respiration entre deux tempêtes.
+Ce sera l’occasion de renforcer l’attachement du joueur au groupe… juste avant que tout parte en vrille.
+
+🌃 CHAPITRE 5.8 — “DÉRIVES”
+Objectif : offrir un moment plus calme, libre, intime ou festif selon les choix, avec dialogues optionnels, exploration, et un faux sentiment de sécurité.
+Ce chapitre peut être totalement ignoré par un joueur pressé, mais il récompense ceux qui s’attachent à l’univers et aux personnages.
+🛖 5.8.1 — LA PLANQUE, JOUR DE RELÂCHE
+Grey déclare un jour de pause :
+“Pas d’ordres. Faites ce que vous voulez. Ou ce dont vous avez besoin.”
+🎮 Le joueur peut alors :
+• Explorer de nouvelles pièces de la planque (zone d’entraînement, salle commune, chambres perso)
+• Déclencher des cinématiques facultatives
+• Accéder à un mini-jeu type “debug/console” sur une vieille borne
+🧊 5.8.2 — CINÉMATIQUE : SOIRÉE AU BAR
+Ash propose de sortir discrètement avec Riven et Delta.
+CINÉMATIQUE interactive en travelling caméra.
+Musique : “Dolce” – Cushy
+Le barman fait valser un shaker. Lumière néon.
+Des rires, des verres qui s’entrechoquent.
+Ash :
+“Tu sais quoi, Delta ? Je te fais confiance maintenant. J’dirais même que je t’aime bien. Enfin… dans ce monde pourri, c’est rare.”
+Riven, plus sobre :
+“Fais pas le sentimental. Mais t’as assuré, Delta.”
+🎮 Le joueur peut :
+• [Lever son verre]
+• [Sourire en silence]
+• [Changer de sujet]
+→ Un lien fort s’installe selon le choix.
+
+🎧 5.8.2.5 -- BOITE DE NUIT
+
+Après le bar, Delta et Riven vont en boite de nuit.
+Cinématique stylisée avec :
+ROCK THAT BODY - BLACK EYED PEAS
+(Possible shamballa - Anyme)
+Scenes jouable genre concours de shot, toilettes
+Danse effet ralentis avec effet alcool visible
+Puis fin de ma cinématique black out, on se retrouve avec Riven dans une piece sombre
+🎧 5.8.3 — MOMENT INTIME (OPTIONNEL)
+Dans une salle sombre, avec un vieux tourne-disque, Delta croise Riven seule.
+Riven :
+“T’arrives à dormir, toi ? Moi j’peux pas. Trop de trucs en tête.”
+🎮 Choix :
+• [Rester avec elle sans parler]
+• [Lui parler de tes cauchemars]
+• [Lui proposer de changer de vie, un jour]
+→ Selon l’affinité construite, elle peut dire :
+“Si on s’en sort un jour… je veux bien te revoir. Loin d’ici.”
+🎮 5.8.4 — MINI-GAME : LE TERMINAL DU FOND
+Une vieille machine d’arcade planquée dans un coin.
+→ Mini-jeu de rapidité ou de hacking rétro.
+Si gagné, débloque :
+• Un fichier audio de Grey plus jeune
+• Ou une note laissée par un ancien membre disparu de l’Écho
+🧭 5.8.5 — RÉVEIL DIFFICILE
+Coupure nette.
+Delta se réveille. Seul.
+Rien ne semble changé…
+Mais dans la pièce voisine, Ash n’est pas rentré.
+La mission suivante est annoncée par Grey.
+“On bouge dans 10 minutes. Quelqu’un a vu Ash ?”
+
+💥 CHAPITRE 6 — “CHOC”
+Objectif : briser l’équilibre émotionnel construit jusque-là.
+C’est le chapitre où tout bascule, sans révéler encore l’ampleur de la trahison. Juste assez pour que le joueur doute, s’énerve, ou nie.
+Si le joueur a vu les documents "echo31", il commence à voir clair. Sinon… il est pris au dépourvu total.
+📍 6.1 — BRIEFING
+Grey annonce une mission ultra-risquée :
+“Un des entrepôts de CytherCore, une boîte privée qui vend nos données à des États. On entre, on copie, on sort.”
+Ash arrive en retard. Transpire.
+Riven le regarde, méfiante.
+Toi : silence.
+🎮 Dialogue Ash :
+“C’était la circulation. Ça va, j’suis là.”
+Si t’as vu les logs et l’as confronté avant → tension palpable dans sa voix.
+Sinon → rien de suspect… pour l’instant.
+🕶️ 6.2 — MISSION : CYTHERCORE
+Structure d’immeuble high-tech. Surveillance accrue.
+Delta, Ash, Riven, plus 2 PNJ de l’Écho (Jet & Noa) infiltrent.
+Grey est en contact radio permanent :
+“Je veux aucune bavure. C’est pas un braquage.”
+🎮 Gameplay :
+• Furtivité renforcée
+• Caméras, gardes, QTE d’évitement
+• QTE combat silencieux
+⚠️ 6.3 — PIÈGE
+Delta découvre que quelqu’un a désactivé une caméra, juste avant qu’ils passent. Trop pratique.
+Riven chuchote :
+“Quelqu’un les a prévenus. Je le sens.”
+🎮 QTE : infiltration interrompue, fusillade.
+Les deux PNJ (Jet & Noa) sont touchés.
+Jet meurt. Noa est gravement blessée.
+Ash hurle :
+“ON FONCE DEDANS !”
+Riven :
+“On dégage !”
+🎮 Choix :
+• [Suivre Ash (forcer l’entrée)]
+• [Suivre Riven (fuite stratégique)]
+→ Le choix change légèrement la suite :
+• Suivre Ash = plans récupérés, mais dégâts lourds.
+• Suivre Riven = fuite propre, mais plans partiels.
+🎬 6.4 — RETOUR BASE
+CINÉMATIQUE. Silence lourd.
+Noa est allongée. Grey pose une main sur son épaule.
+Riven t’attrape :
+“T’as pas vu ? Ash savait. J’suis sûre qu’il savait.”
+🎮 Choix :
+• [Tu dis rien]
+• [Tu confirmes ses doutes]
+• [Tu défends Ash]
+→ Si tu confirmes = complicité Riven + tension Ash
+→ Si tu défends Ash = il t’est redevable
+→ Si tu dis rien = tout le monde commence à douter de toi
+🧠 6.5 — SI TU AS VU LES DOSSIERS
+Dans la nuit, Delta peut choisir :
+• Replonger dans les logs
+• Aller confronter Grey
+• Espionner Ash
+→ Tu peux surprendre Ash en appel avec un inconnu.
+Juste une phrase captée :
+“...pas encore. J’ai besoin d’eux pour le prochain coup.”
+💔 6.6 — FISSURES
+Delta entre dans la salle commune.
+Riven te fixe. Elle te dit doucement :
+“Tu vas devoir choisir un camp. Bientôt.”
+Ash arrive dans ton dos.
+“Fais gaffe à ce qu’elle te raconte. Elle perd les pédales.”
+🎮 Aucun choix.
+Juste le silence. Et la musique.
+Musique : “In a World” – Quinten Coblentz (remix sombre)
+
+Puis: 
+🍷 SCÈNE PARALLÈLE — “LE VERRE DU CHIEN”
+Objectif : isoler Delta après le chaos du chapitre 6.
+Offrir une scène calme, cinématique, centrée sur le doute, le trauma, la paranoïa.
+Poser Grey comme une figure paternelle dure, mais lucide.
+Musique : “Never Get Used to People” – Never Get Used to People
+🎬 INTRO
+Nuit noire. Une pluie fine.
+Delta marche seul dans une ruelle, capuche sur la tête.
+Plan large : il pousse une porte métallique.
+BAR “LE DERNIER RÉSEAU”
+Intérieur : lumière tamisée, jazz rouillé, ambiance rétro-futuriste.
+🧱 SCÈNE FIXE — CINÉMATIQUE NON-JOUABLE
+Grey est là, dos à toi, accoudé au bar, toujours avec sa clope au bec.
+“T’as ce regard. Le même que j’avais à Berlin en 29.”
+🎮 Dialogue (choix) :
+• [Je sais plus à qui faire confiance.]
+• [C’est moi qui déraille ?]
+• [Pourquoi t’as jamais viré Ash ?]
+→ Chaque réponse déclenche une version différente du dialogue suivant.
+🗣️ GREY PARLE
+“Tu crois que le monde a des gentils et des méchants ? Tu crois que Riven est l'ange et Ash le diable ? C’est plus sale que ça, gamin.”
+Il boit un shot.
+“La vérité, c’est que ceux qui vivent longtemps sont jamais tout blancs.”
+🎮 (Option) [Dire la vérité / Garder le silence / Mentir]
+→ S’il te fait confiance, il dit :
+“L’écho n’est pas une famille. C’est un feu. Faut choisir si tu l’alimentes… ou si tu le regardes cramer.”
+🖤 CINÉMATIQUE FINALE
+Delta regarde autour.
+Le bar est vide. Grey disparaît dans l’ombre.
+La caméra recule lentement.
+“Alors, Delta. Tu vas devenir quoi maintenant ?”
+Musique qui s’élève. Never Get Used to People en crescendo.
+Fondu noir.
+Chapitre suivant imminent.
+Tu veux enchaîner sur le chapitre 7 — La Rupture ?
+Ou insérer une dernière quête simulée de routine avant l'explosion ?
+
+⚔️ CHAPITRE 7 — “LA RUPTURE”
+Objectif : révéler la trahison.
+Le joueur doit être choqué, en colère, et ébranlé émotionnellement.
+Si le joueur a creusé les indices précédents (code echo31, espionnage), il comprend.
+Sinon : il vit la chute brutale de la confiance.
+🎯 7.1 — LA FAUSSE MISSION
+Grey vous réunit dans la planque.
+“Livraison urgente dans un entrepôt désaffecté. Aucun danger.”
+Delta, Ash, Riven, et un nouveau recrue (PNJ inutile, juste pour détourner l’attention) partent.
+Ash paraît calme. Trop calme.
+Riven t’envoie un regard discret. Elle ne lui fait plus confiance.
+📦 7.2 — EMBUSCADE
+Le lieu est silencieux.
+Trop silencieux.
+Un message s’affiche sur un écran abandonné :
+“DELTA: ID CONFIRMED. INITIATING TRANSFER.”
+CINÉMATIQUE :
+• Des drones débarquent.
+• Des soldats masqués encerclent l’équipe.
+• Ash hurle :
+“C’est lui que vous voulez ! Pas nous !”
+Et recule.
+🎮 QTE : [Éviter un tir / Esquiver une chute / Fuir]
+Tu peux te faire capturer si tu rates. Fin ζ.
+💣 7.3 — FUITE SANS ASH
+Si tu t’en sors, c’est sans Ash.
+Riven est blessée. Tu dois la porter ou la laisser.
+(choix important pour plus tard)
+Une course contre la montre commence à travers un parking souterrain.
+Musique : “New World” – Cyril Morin
+💀 7.4 — SCÈNE DU TRAUMA
+Delta traîne Riven dans une ruelle. Elle saigne.
+“C’est Ash… il nous a vendus. Il a dit ton nom. Il l’a crié.”
+🎮 Choix :
+• [Hurler.]
+• [Se taire et fuir.]
+• [Retourner le chercher.] → embuscade = fin θ
+🧠 7.5 — FLASHBACK (si le joueur a vu les logs)
+Le cerveau de Delta tourne.
+Des morceaux de souvenirs reviennent :
+• Le regard d’Ash dans le bar.
+• La caméra désactivée à CytherCore.
+• Le fichier ECHO_ASH_31.txt
+New world - cyril morin
+Tout s’aligne.
+Ash ne vous a jamais choisis.
+🎬 7.6 — CINÉMATIQUE DE FIN DE CHAPITRE
+Retour à la planque.
+Delta marche seul. Riven est sur une civière.
+Grey regarde par la fenêtre.
+“Tu vois maintenant, hein ?”
+Silence.
+“Il reste plus que toi. Fais gaffe à ce que tu deviens.”
+
+🧩 CHAPITRE 8 — “FRACTURES:2”
+Objectif : laisser le joueur souffler, réfléchir à tout ce qui s’est passé, et poser la suite du jeu. C’est un chapitre lent, lourd émotionnellement, avec quelques scènes jouables calmes… et un dilemme majeur à la fin.
+🕳️ 8.1 — LA PLANQUE VIDE
+Delta est seul.
+Plan large de la planque, désordonnée. La lumière bleue clignote.
+Grey est parti sans laisser de mot.
+Un fichier est laissé sur l’ordi :
+open_file("last_trace")
+🎮 Cinématique :
+Grey a laissé un message audio :
+“Tu veux des réponses ? Rejoins-moi au bar. Une dernière fois.”
+🍸 8.2 — RETOUR AU BAR
+Cinématique avec “Dolce” de Cushy.
+Le bar est toujours aussi calme, mais Delta ne l’est plus.
+Grey est là, assis seul.
+“Tu sais que c’est pas terminé. Ils sont encore en ville. Ash a trahis l'écho.”
+🎮 Dialogue à choix :
+• [Je le retriuve et je l'éteint.]
+• [Je veux juste disparaître.]
+• [Ils me verront plus jamais.]
+→ Peu importe la réponse, Grey propose :
+“Je connais des gens. Pas propres, mais loyaux. Tu peux les rejoindre. Ou tracer seul. À toi de voir.”
+🧠 8.3 — PREMIÈRE BRANCHE DÉCISIONNELLE
+🎮 CHOIX MAJEUR :
+• [Rejoindre l’unité de Grey] → Nouvelle équipe, nouvelle dynamique (chapitre 9 orienté team)
+• [Travailler seul] → Missions solo plus sombres, mais instabilité mentale (chapitre 9 orienté paranoïa)
+• [Aller droit vers Ash] → Tentative de vengeance anticipée (chapitre 9 alternatif → fin Σ possible)
+🧊 8.4 — SCÈNE DE MÉDITATION
+Delta dans une ruelle, sur un toit ou devant un écran qui diffuse des messages d’alerte.
+Il se regarde dans un miroir brisé.
+Il remet son hoodie noir. Ferme sa veste. Respire.
+Flash-back rapide :
+• Ash qui rit
+• Riven qui saigne
+• Grey qui fume et parle de “feu”
+• La phrase de Riven :
+“Tu vas devoir choisir un camp. Bientôt.”
+🔚 FIN DU CHAPITRE 8
+L’écran devient noir.
+Texte affiché (à la Watch Dogs/Cyberpunk) :
+“Tu ne contrôles pas toujours ce qui te détruit.”
+
+🔱 CHAPITRE 9 — TROIS CHEMINS
+🟦 9A – “NOUVELLE ÉQUIPE” (si le joueur rejoint l’unité de Grey)
+Ton équipe : Lino (hacker parano), Saya (ancienne policière mutée), et Fix (explosifs, muet). Objectif : attaquer un entrepôt où Ash a laissé une trace numérique.
+Points clés :
+• Nouvelle dynamique : Delta ne leur fait pas confiance, mais ils lui montrent de la loyauté.
+• QTE d’entrée fracassante, avec couloirs à piéger ou à pirater.
+• Dialogue avec Saya :
+“Tu crois qu’on peut survivre sans faire confiance ?”
+🎮 Scène calme ensuite autour d’un feu.
+Fix montre un schéma. Lino fait une blague.
+Delta esquisse un sourire. Première trace d’humanité depuis Riven.
+Fin du chapitre :
+→ ils trouvent un fichier d’Ash nommé “IF_YOU_FOUND_THIS_YOU’RE_TOO_LATE”.
+🟥 9B – “PARANOÏA” (si le joueur travaille seul)
+Delta est instable. Il dort peu. Il entend parfois la voix de Riven.
+Frank's Choice
+Points clés :
+• Jeu plus psychologique : HUD brouillé, hallucinations audio.
+• Missions de fouille dans les égouts de Blackridge.
+• Cinématique où Delta s’enregistre dans un journal vidéo, yeux cernés :
+“Je peux pas leur faire confiance. Ni à eux. Ni à moi.”
+🎮 Choix :
+• [Effacer le journal]
+• [Le cacher]
+• [Le transmettre à Grey]
+Fin du chapitre :
+→ Il trouve une cache contenant des vêtements, une arme, et une carte avec un X.
+Il la reconnaît : c’est une planque de Ash.
+🟨 9C – “CHASSE DIRECTE” (si le joueur part seul contre Ash eventuelle fin forcée ou retour sur les voies précédentes)
+L’objectif est clair : le retrouver et le tuer.
+Points clés :
+• Traque en ville : interrogation de PNJ, analyse de caméras, piratages.
+• Tension extrême, musique rythmée, style thriller.
+• À mi-parcours, un homme surgit et bloque Delta.
+“Ash t’attend. Mais t’es pas prêt.”
+🎮 Choix :
+• [L’affronter] → Fin alternative Ω (tu meurs)
+• [Fuir et revenir plus tard] → Te replonge dans 9A ou 9B selon ton parcours
+• [Tenter de convaincre] → Il te donne un enregistrement audio… d’Ash disant :
+“Delta était jamais censé survivre. J’voulais juste qu’il serve.”
+Fin du chapitre :
+→ Delta regarde le ciel, seul, avec l’enregistrement dans sa main tremblante.
+
+
+💡 CHAPITRE 10 — "RÉMANENCE"
+🕯️ 10.1 — RETOUR DE RIVEN
+Lieu : hôpital désaffecté, repaire de Grey.
+Delta y arrive après 9A ou 9B.
+Il retrouve Grey, assis au même bar intérieur, fumant.
+“T’as tenu. J’pensais pas.”
+Puis :
+“Elle aussi.”
+🎮 Cinématique : entrée de Riven, bandage au bras, regard troublé.
+“C’est toi l’autre fantôme, alors…”
+Premier échange de regards. Aucune hostilité. Juste les cicatrices du passé.
+📜 10.2 — LE BRIEF
+Grey réunit le groupe autour d’un projecteur holographique.
+Objectif :
+• Ash possède un disque dur contenant les identités de tous les membres actifs de l’Écho.
+• Il va les vendre à un groupe privé gouvernemental pour se blanchir.
+• Mission : intercepter et détruire la base de transfert avant minuit.
+🎮 Choix de réaction :
+• [On y va à fond.]
+• [On planifie.]
+• [On laisse tomber, il viendra à nous.]
+Grey impose son plan :
+“Pas de démocratie ici. Delta. Riven. Vous partez demain matin. Ce soir, reposez-vous. Vous allez en avoir besoin.”
+🍷 10.3 — L’APPARTEMENT
+Plan large sur un appartement prêté par Grey.
+Delta et Riven sont seuls. La pluie tombe.
+Musique lente, faible lumière.
+Deux verres d’alcool.
+La discussion commence.
+➡️ Cette séquence est une cinématique interactive.
+Elle contient plusieurs dialogues à choix multiples qui influencent le lien entre Delta et Riven.
+🎮 10.3.1 — DIALOGUES POSSIBLES :
+Riven :
+“Tu m’en veux encore ?”
+Choix :
+• [Non. Juste à moi.]
+• [Je m’en fous.]
+• [Tu m’as manqué.]
+Riven :
+“T’as changé. Plus fermé. Plus froid.”
+Choix :
+• [J’ai vu trop de choses.]
+• [T’es pas restée.]
+• [Peut-être.]
+Puis, en fin de discussion : Riven (bourrée) :
+“Tu veux que je sois franche ?”
+Choix :
+• [Toujours.]
+• [Pas ce soir.]
+Si [Toujours] sélectionné :
+“Je t’aime, connard.”
+🎮 Choix :
+• [L’embrasser]
+• [Ne rien dire]
+• [La repousser doucement]
+🛏️ 10.4 — LE LENDEMAIN MATIN
+Plan fixe sur la chambre.
+Deux verres vides. Deux corps endormis sous une couverture.
+Delta se réveille. Regarde Riven dormir.
+Texte en overlay :
+“Tu peux vivre seul. Mais tu survis rarement sans attache.”
+🔥 10.5 — LANCEMENT DE LA MISSION
+Grey les attend à l’extérieur.
+Pas de mots. Juste un signe de tête.
+
+Discussion complete a l'appartement:
+
+🎬 CHAPITRE 10.3 — APPARTEMENT / NUIT
+📍 Ambiance : appartement sombre, pluie
+Musique : poetic rizz
+ contre les vitres, lumière faible.
+🍷 Deux verres sur la table. Riven commence à parler en fixant le liquide qui tourne dans le sien.
+🎭 Dialogue 1 — “Tu m’en veux encore ?”
+Riven :
+“Tu m’en veux encore, hein ? Pour… tout.”
+🎮 Choix du joueur :
+• [Non. Juste à moi.]
+→ Elle hoche la tête, triste.
+→ “Ouais… Moi aussi.”
+• [Je m’en fous.]
+→ Elle sourit, ironique.
+→ “T’as jamais été bon menteur.”
+• [Tu m’as manqué.]
+→ Elle détourne le regard, émue.
+→ “T’aurais pas dû dire ça.”
+🎭 Dialogue 2 — “T’as changé.”
+Riven :
+“Depuis ce jour-là. T’es plus pareil. Plus froid. Plus… tranchant.”
+🎮 Choix du joueur :
+• [J’ai vu trop de choses.]
+→ “Ouais… Moi aussi.”
+• [T’es pas restée.]
+→ Elle baisse la tête. “Je pouvais pas. Pas après ce que j’ai vu.”
+• [Peut-être.]
+→ Elle sourit. “Mais tu restes toi.”
+🎭 Dialogue 3 — action ou vérité 
+Riven :
+“on joue a action ou vérité?”
+🎮 Choix du joueur :
+• [Action.]
+→ “Bois cul sec.”
+→ Delta exécute. Ils rient.
+• [Vérité.]
+→ “Tu me fais encore confiance ?”
+🎮 Choix suivant :
+• [Oui.] → Elle sourit doucement. “Alors on a peut-être une chance.”
+• [Non.] → Elle vide son verre. “Alors pourquoi t’es encore là ?”
+
+Cut, ils sont bourré 
+🎭 Dialogue 4 — La faille
+Riven :
+“Tu veux que je sois franche ? Complètement ?”
+🎮 Choix du joueur :
+• [Toujours.]
+→ Elle s’approche.
+→ “Je t’aime, connard.”
+🎮 Nouveau choix :
+• [L’embrasser] → Ils s’embrassent lentement. Fondu noir. (Musique : I <3 you so)
+→ Relation établie : “Complicité forte.”
+• [Ne rien dire] → Elle sourit tristement, se recule. “T’inquiète. Juste… fallait que je le dise.”
+→ Relation : “Ambiguë.”
+• [La repousser doucement] → Elle baisse la tête, s’éloigne. “Trop tard, j’imagine.”
+→ Relation : “Froide.”
+• [Pas ce soir.]
+→ “Comme tu veux. Peut-être qu’un jour, on pourra parler sans masque.”
+🛏️ Épilogue de la scène
+Peu importe le choix, la nuit passe.
+Musique douce.
+La caméra s’éloigne de la pièce par la fenêtre, sous la pluie.
+Ce système permet d’établir trois dynamiques possibles entre Delta et Riven :
+• Liés émotionnellement (embrasser)
+• Doute affectif / tension (ne rien dire)
+• Rupture ou distance (refus ou froideur)
+
+🔥 CHAPITRE 11 — “CATALYSE”
+“Tu n’auras pas d’autre chance. Si tu rates cette mission, Ash efface tout.” — Grey
+🕶️ 11.1 — MISE EN PLACE
+Lieu : périphérie d’un ancien centre de données militaire reconverti en hub privé.
+Ash a rendez-vous ici pour transférer les identités volées à un réseau d’exfiltration.
+Grey, Delta et (selon les choix) Riven s’équipent dans un véhicule discret.
+🎮 Brève séquence de dialogue préparatoire :
+• [J’vais l’avoir.]
+• [J’espère que t’as pas trop bu hier.]
+• [T’as déjà hésité à le tuer, Grey ?]
+Réponses possibles selon affinité :
+“C’est pas une question d’envie. C’est une question de moment.”
+🛰️ 11.2 — INFILTRATION
+Phase jouable.
+Delta infiltre les lieux.
+🎮 Plusieurs approches possibles (choix de départ) :
+• [Silencieux] : piratage, désactivation caméras, escalade
+• [Frontale] : passage par une porte latérale, combat à mains nues + QTE
+• [Diversion] : attirer un garde ailleurs pour passer
+Le centre est surveillé par des drones, gardes, et verrous numériques.
+🎥 11.3 — CINÉMATIQUE : FACE-À-FACE
+Delta arrive à la salle centrale.
+Ash est là. Il sourit.
+“T’es venu ? J’me demandais si tu te pointerais.”
+🎮 Dialogue ramifié :
+• [Tu joues à quoi, Ash ?]
+• [Tu nous as trahis.]
+• [J’suis venu pour mettre fin à tout.]
+Ash tente de se justifier :
+“On a tous voulu survivre. Moi j’ai juste réussi mieux que vous.”
+🗡️ 11.4 — LE DILEMME
+Ash sort un petit interrupteur.
+“Un mot de toi, et j’efface tout. Tous les membres. Toi compris.”
+🎮 Choix de dialogue critique :
+• [Tire.]
+→ Ash appuie, base s’autodétruit (fin H ou I selon chemin).
+• [Tente de négocier.]
+→ Ash temporise. Riven entre discrètement par derrière (si en vie) et désarme le système.
+• [Propose un deal.]
+→ Il demande ce que tu offres. Delta propose les preuves du traître, ou le vrai nom d’un membre (choix moral lourd).
+⚔️ 11.5 — QTE FINAL
+Quelque chose dérape.
+Ash s’énerve. Il lance un couteau vers Delta (ou une autre arme, selon le chemin).
+🎮 QTE : Éviter / Attraper / Esquiver
+Si raté → blessure critique
+Si réussi → Ash s'échappe 
+🌌 11.6 — FIN DU CHAPITRE
+Selon la scène, plusieurs suites sont possibles :
+
+-> 11.7 entrainement avec gray
+
+🧠 CHAPITRE 12 — ÉCHOS SYSTÉMIQUES
+“Si t’arrives à pénétrer ce serveur, tu sauras tout. Même ce qu’ils ne voulaient jamais que tu saches.” — Grey
+🛰️ 12.1 — INFORMATIONS BRUTES
+Lieu : planque sécurisée dans un ancien abri anti-bombardement.
+Grey, visiblement troublé, t’explique que les données collectées par Ash proviennent d’un système gouvernemental d’effacement de dissidents.
+Il ne connaît pas encore tout, mais un ancien contact de l’Écho peut t’indiquer où est le relais de backup.
+🎮 Choix de dialogue :
+• [Pourquoi tu ne m’as rien dit ?]
+• [On parle de quoi exactement ?]
+• [Et Riven, elle le sait ?]
+Riven entre et dit :
+“On va devoir entrer dans un bunker où même le vent ne passe plus.”
+🧠 12.2 — LA CIBLE
+La cible est un serveur noyé dans les sous-niveaux d’une tour effondrée, contrôlée par une milice privée.
+3 approches proposées :
+• [Solo infiltration] — Difficulté élevée, discrétion.
+• [En duo avec Riven] — Dialogue renforcé, tension + liens.
+• [Faire appel à Grey] — Dialogue tactique, options brutales.
+Pendant la mission :
+• Découverte d’anciens fichiers.
+• Scènes interactives de hack (mini QTE, mots de passe, chronos).
+• Documents audio révélant que Ash travaillait comme informateur double.
+🗂️ 12.3 — DÉCOUVERTE
+🎥 Cinématique : Delta trouve une base de données complète de surveillance de la population :
+• arrestations illégales
+• exécutions par IA
+• manipulations médiatiques
+• fichiers audio : des voix officielles admettant tout.
+🎮 Choix :
+• [Copier l'intégralité]
+• [Ne prendre que ce qui concerne Ash]
+• [Détruire tout] — disponible uniquement en cas de trauma élevé (paranoïa).
+⚠️ 12.4 — TRAHISON ANNEXE
+(Si le joueur a douté ou confronté Riven au Chapitre 10) :
+Elle avoue avoir failli balancer Delta à Grey au tout début.
+🎮 Choix :
+• [Lui pardonner]
+• [La confronter]
+• [Ne rien dire]
+Cela influence son comportement dans le chapitre suivant.
+🛑 12.5 — FINALE DU CHAPITRE
+Ash apparaît brièvement sur un écran du serveur. Il sourit.
+“T’as les cartes. Moi j’ai le temps. Choisis bien.”
+Fin de la mission sur un écran noir avec la ligne :
+“Plus tu découvres, plus le monde a peur de toi.”
+
+🖤 CHAPITRE 13 — “POINT DE RUPTURE”
+“Elle t’aimait. Tu ne l’as compris qu’au moment où son corps s’est effondré.”
+🌃 13.1 — BRIEFING FINAL
+Lieu : planque temporaire dans un hangar abandonné.
+Grey prévient que le dernier relais utilisé par Ash sera activé ce soir. Il te confie une clé de décryptage.
+🎮 Dialogue :
+• [On y va tous ensemble ?]
+• [Tu crois qu’il sait qu’on arrive ?]
+• [On le prend vivant cette fois ?]
+→ Grey : “C’est pas une option. Il s’échappe ou il crève.”
+🧭 13.2 — ENTRÉE DANS LE PIÈGE
+Lieu : ruines industrielles, ambiance nocturne, lumière rouge, musique tendue.
+Delta et Riven infiltrent une station de transfert désaffectée.
+Mais un déclencheur silencieux alerte Ash.
+🎮 Mini-jeu : désactiver des bornes dans un ordre précis (QTE).
